@@ -3,8 +3,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        int adet= 1;
-        int tas=1;
+        
 
         System.out.print("Bir Sayı Girin: ");
         int n = input.nextInt();
